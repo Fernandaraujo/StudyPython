@@ -1,2 +1,2 @@
-# StudyPython
-Códigos desenvolvidos durante o estudo da linguagem Python
+# Study Python
+Códigos desenvolvidos durante o estudo da linguagem Python.
